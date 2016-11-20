@@ -212,7 +212,7 @@ int main(int argc, char **argv)
 {
 	
 	char *s;
-	char test1[] = "Alfanumerisk ";
+	char test1[] = "Alfanumerisk";
 	char test2[] = "Display - test";
 	
 	app_Init();
