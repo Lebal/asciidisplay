@@ -47,7 +47,6 @@ Temporary Items
 .apdisk
 *.txt
 *.mk
-*.project
 *.d
 *.elf
 *.s19
